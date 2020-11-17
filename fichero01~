@@ -1,0 +1,19 @@
+Funcion 0000
+    Realizado "git clone <ruta>" para crear ejemplo001
+    Edito este primer fichero y guardo cambios 
+
+    EL objetivo es entender el uso de las ramas en git, para ello creare varios ficheros y "funciones"
+    Representare errores de la forma : ERROR Nº <nnnn.n> 
+    Posterior mente corregire estos errores en la forma: [ERROR Nº <nnnn>] CORRECCION Nº <nnnn>
+    Texto para cambiar o borrar: BORRAR Nº <nnnn>
+Fin 0000
+
+Funcion 0001 (V0000)
+    Datos......
+    ERROR Nº V0000.1
+    ERROR Nº V0000.2
+    ERROR Nº V0000.3
+    ERROR Nº V0000.4
+    ERROR Nº V0000.5
+Fin 0001
+    
